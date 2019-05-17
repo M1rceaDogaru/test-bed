@@ -1,0 +1,74 @@
+<sequences>
+    <sequence id='intro'>
+        <message text="Hallway's clear. Go!"/>
+    </sequence>
+    <sequence id='tbug_hallway'>
+        <message text="1237 - on your right"/>
+        <message text="Girl's inside. Biomon's been down an hour. Better delta."/>
+    </sequence>
+    <sequence id='lady_rody'>
+        <message text="Rody, my son. Is that you?"/>
+    </sequence>
+    <sequence id='tbug_entrance'>
+        <message text="Should have full access in 2.8 seconds"/>
+        <message text="Breached it! Your turn!"/>
+        <message text="Orale, lead the way, jaina."/>
+        <message text="Alarms neutralized."/>
+    </sequence>    
+    <sequence id='jackie_first_encounter'>
+        <message text="J:Grr, are we fuckin' late? Is that her, that our target, V?!"/>
+        <message text="V:Chrome's too simple. Not our girl, I think."/>
+        <message text="V:Keep looking."/>
+    </sequence>
+    <sequence id='jackie_fight_start'>
+        <message text="They're coming!"/>
+        <message text="V, head down!"/>
+    </sequence>
+    <sequence id='jackie_fight_bark'>
+        <message text="Want more?! Hahaha! Muy bien!"/>
+        <message text="V, take cover!"/>
+    </sequence>
+    <sequence id='jackie_boss'>
+        <message text="J:He's movin'!"/>
+        <message text="B:Punch you full of holes, you dizzy cunt!"/>
+        <message text="J:Cover! Find cover!"/>
+        <message text="J:Blast the wall, you'll get him!"/>
+        <message text="V:Can't see shit!"/>
+        <message text="J:Jesus! Use your fuckin' scanner!"/>
+        <message text="V:Got none to fuckin' use!"/>
+        <message text="J:We out of options, here...!"/>
+        <message text="T:Room he's in looks out on the balcony."/>
+        <message text="T:Got a window on the left. Go!"/>
+        <message text="J:Jaina, get his attention. I'll do the rest."/>
+    </sequence>
+    <sequence id='boss_distracted'>
+        <message text="J:Grrragh"/>
+        <message text="J:Terminado!"/>
+        <message text="J:Won't be needin' this anymore. Pussy."/>
+        <message text="T:Layout shows only one room left - the bathroom. Go!"/>
+        <message text="J:Sure hope our target's in there."/>
+    </sequence>
+    <sequence id='target_found'>
+        <message text="J:Cabrones."/>
+        <message text="V:Think I got her, got our target."/>
+        <message text="T:We make it? She alive?"/>
+        <message text="J:This does not look good..."/>
+        <message text="V:Know in a minute. Jacking into biomon."/>
+        <message text="V:Sandra Dorsett. NC570442. Got a winner."/>
+        <message text="V:Or she will be if we can get her to a hospital..."/>
+        <message text="V:Sheesh, Trauma team Platinum, too."/>
+        <message text="J:Platinum? Shit, TT shoulda swooped in if she sneezed."/>
+        <message text="V:Something's jamming the biomon signal. Talk to me, T-Bug."/>
+        <message text="T:Virus, probably. Locate her neurosocket - should be a shard slotted in, shit's probably on that."/>
+        <message text="T:If we clear it, free up the signal, TT could actually drop in, take her off our hands."/>
+        <message text="V:Got the shard. Removing it now."/>
+        <message text="V:Done."/>
+        <message text="T:OK. Check her biomon again."/>
+        <message text="TTI:Greetings Sandra. An emergency evacuation unit has been dispatched and is due to arrive at your location in 180 seconds."/>        
+        <message text="V:Biomon claims Trauma'll be here in three minutes."/>
+        <message text="J:Like the fuckin' cavalry. Heheh."/>
+        <message text="J:C'mon, let's get her outta here."/>
+        <message text="TTI:Your premium plan will cover 90% of the projected costs of your rescue and treatment."/>        
+        <message text="J:Oh, mierda! She's flatlinin'!"/>
+    </sequence>
+</sequences>
