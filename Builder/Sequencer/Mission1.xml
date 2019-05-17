@@ -1,5 +1,5 @@
 <sequences>
-    <sequence id='intro'>
+    <sequence id='scene_intro'>
         <message text="Hallway's clear. Go!"/>
     </sequence>
     <sequence id='tbug_hallway'>
@@ -70,5 +70,34 @@
         <message text="J:C'mon, let's get her outta here."/>
         <message text="TTI:Your premium plan will cover 90% of the projected costs of your rescue and treatment."/>        
         <message text="J:Oh, mierda! She's flatlinin'!"/>
+        <message text="T:V, need to know, what's goin' on?!"/>
+        <message text="V:Jackie, airhypo!"/>
+        <message text="J:Catch, jaina!"/>
+        <message text="V:She's stable."/>
+        <message text="J:Phew..."/>
+        <message text="J:Fuera, jaina. Get her outside!"/>
+        <message text="J:I'll cover you."/>
+        <message text="T:Swarm of the sons-of-bitches, two vans full. Just pulled up outside."/>
+        <message text="J:Fuera, get'er out. Terrace."/>
+    </sequence>
+    <sequence id="trauma_arrival">
+        <message text="TT:Stand clear. Landing."/>
+        <message text="TTS1:Stop where you are!"/>
+        <message text="TTS2:Place the patient on the stretcher."/>
+        <message text="TTS1:Five steps back. Now!"/>
+        <message text="TTS1:I said, step back."/>
+        <message text="TTS2:TT-133 to Control. Patient NC570442 secured..."/>
+        <message text="TTS2:Stimulants being administered - 70 MGs dopamine, 110 norepinephrine, 800 fibrin..."/>
+        <message text="V:Hey...Give us a lift outta here? OK... no problem."/>
+        <message text="T:Cutting connection. T-Bug out."/>
+    </sequence>
+    <sequence id="jackie_head_out">
+        <message text="J:All clear. Let's you and me blow."/>
+        <message text="J:Don't have much time from what Bug said."/>
+    </sequence>
+    <sequence id="scene_exit">
+        <message text="J:I got the eddies for new wheels, now. Eyein' somethin' real fine, too."/>
+        <message text="J:How 'bout you, jaina? Prolly blow it all on booze in three days."/>
+        <message text="V:Talkin' about somebody else, Jack. I'm cleaner than a cunt at a convent."/>
     </sequence>
 </sequences>
